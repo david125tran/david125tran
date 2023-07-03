@@ -5,7 +5,7 @@ I'm David
 I'm an 👨‍🔬 assistant scientist that has been working in pharmaceutical GMP laboratories for going on 6 years & I reside in Raleigh, NC.  I have a 👨‍🎓 BS in Biology and am self-teaching myself tech.  I ❤️ both 🧬 science and 💻 tech.  
 
 ### Languages:  
-Python, SQL   
+Python, SQL, VBA
   
 ### Tech Skills:  
 APIs, BeautifulSoup, Databases, Flask, Git, GitHub, Matplotlib, MySQL, NumPy, Object Oriented Programming (OOP), Pandas, PyCharm, Querying Databases, Tableau, Tkinter GUI, Visual Studio Code, Web Scraping
