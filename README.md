@@ -35,6 +35,6 @@
 |[Tic_tac_toe](https://github.com/david125tran/tic_tac_toe)|![Python](https://img.shields.io/badge/language-Python-blue)|A simple script to play tic, tac, toe as a text based game.|
 |[TicTacToeOOP](https://github.com/david125tran/TicTacToeOOP)|![C#](https://img.shields.io/badge/language-C%23-purple) |Showcasing the pillars of object oriented programming in C#.|
 |[US-Weather-API](https://github.com/david125tran/US-Weather-API)|![Python](https://img.shields.io/badge/language-Python-blue)|Getting the current temperature of all 50 US states using an API.  The API call requires a latitude & longitude of each state which I get by using BeautifulSoup webscraper to scrape into a list from a website.|
-|[WindowsForms_CRUD_App.NET](https://github.com/david125tran/WindowsForms_CRUD_App_.NET)|![C#](https://img.shields.io/badge/language-C%23-purple) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)! [TSQL](https://img.shields.io/badge/TSQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=red)|A CRUD Windows desktop connected to a SQL database.|
+|[WindowsForms_CRUD_App.NET](https://github.com/david125tran/WindowsForms_CRUD_App_.NET)|![C#](https://img.shields.io/badge/language-C%23-purple) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white) ![TSQL](https://img.shields.io/badge/TSQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=red)|A CRUD Windows desktop connected to a SQL database.|
 
 
