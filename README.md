@@ -3,8 +3,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david125tran&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david125tran&theme=default) 
   
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](www.linkedin.com/in/david119tran)  
+    
 ## Table of Contents
-| Name of Project | Language | Description |
+| Name of Project | Tech | Description |
 | --------------- | -------- | ----------- |
 |[ASP.NET_Core_Web_App](https://github.com/david125tran/ASP.NET_Core_Web_App)| ![C#](https://img.shields.io/badge/language-C%23-purple)![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)|A CRUD web app using the ASP .NET Core Web App project template.|
 |[Book_to_audio_converter](https://github.com/david125tran/book_to_audio_converter) |![Python](https://img.shields.io/badge/language-Python-blue) |PDF file to MP3 file converter. |
