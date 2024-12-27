@@ -17,11 +17,13 @@
 |[Flask-api](https://github.com/david125tran/flask-api) |![Python](https://img.shields.io/badge/language-Python-blue) |A Flask RESTful API to make a random list of quotes to return.|
 |[Flask_rest_api](https://github.com/david125tran/flask_rest_api) |![Python](https://img.shields.io/badge/language-Python-blue) |A Flask REST API with CRUD functionality.|
 |[Flask_REST_API_MySQL ](https://github.com/david125tran/Flask_REST_API_MySQL) |![Python](https://img.shields.io/badge/language-Python-blue) |A Flask REST API demonstrating CRUD functionality with the data connected to a MySQL relational database.|
+|[Ibjjf_scraper_to_excel](https://github.com/david125tran/ibjjf_scraper_to_excel)|![Python](https://img.shields.io/badge/language-Python-blue)|Webscraping data into an Excel sheet.|
 |[GUI_tkinter_app](https://github.com/david125tran/GUI_tkinter_app) |![Python](https://img.shields.io/badge/language-Python-blue) |A Tkinter GUI that converts PDF files to MP3 files.|
 |[JSON-REST-API](https://github.com/david125tran/JSON-REST-API) |![Python](https://img.shields.io/badge/language-Python-blue) |A REST API app that receives data in JSON format.|
 |[MySQL_Database_Queries](https://github.com/david125tran/MySQL_Database_queries) |![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)|A couple of different database design schemas in MySQL showcasing different queries.|
 |[Matplotlib](https://github.com/david125tran/Matplotlib)|![Python](https://img.shields.io/badge/language-Python-blue)|Data visualizations using the Matplotlib library.|
 |[NumPy-Image](https://github.com/david125tran/NumPy-Image)|![Python](https://img.shields.io/badge/language-Python-blue)|A script that converts a colored image into a black and white image using the NumPy library by putting the image color tuples into an array and doing matrix modification on the array.|
+|[R_Tidyverse](https://github.com/david125tran/R_Tidyverse)|![R](https://img.shields.io/badge/language-R-grey?logo=R&logoColor=blue)|R coursework that I worked through to learn R.|
 |[Selenium_webdriver](https://github.com/david125tran/selenium_webdriver)|![Python](https://img.shields.io/badge/language-Python-blue)|Automated webrowsing using selenium webdriver.|
 |[Space_invaders](https://github.com/david125tran/space_invaders)|![Python](https://img.shields.io/badge/language-Python-blue)|A mock example of the classic arcade game, Space Invaders.|
 |[Tableau](https://github.com/david125tran/Tableau)|![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)|Some data visualizations done in Tableau with large data sets.|
@@ -30,4 +32,5 @@
 |[TicTacToeOOP](https://github.com/david125tran/TicTacToeOOP)| ![C#](https://img.shields.io/badge/language-C%23-purple) |Showcasing the pillars of object oriented programming in C#.|
 |[US-Weather-API](https://github.com/david125tran/US-Weather-API)|![Python](https://img.shields.io/badge/language-Python-blue)|Getting the current temperature of all 50 US states using an API.  The API call requires a latitude & longitude of each state which I get by using BeautifulSoup webscraper to scrape into a list from a website.|
 |[WindowsForms_CRUD_App.NET](https://github.com/david125tran/WindowsForms_CRUD_App_.NET) | ![C#](https://img.shields.io/badge/language-C%23-purple)![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)![TSQL](https://img.shields.io/badge/TSQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=red)|A CRUD Windows desktop connected to a SQL database.|
+
 
