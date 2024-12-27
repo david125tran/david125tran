@@ -8,7 +8,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) david125tran@gmail.com  
 
 ## Table of Contents
-| Name of Project | Framework | Description |
+| Name of Project | Languages & Framework | Description |
 | --------------- | -------- | ----------- |
 |[ASP.NET_Core_Web_App](https://github.com/david125tran/ASP.NET_Core_Web_App)|![C#](https://img.shields.io/badge/language-C%23-purple) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)|A CRUD web app using the ASP .NET Core Web App project template.|
 |[Book_to_audio_converter](https://github.com/david125tran/book_to_audio_converter)|![Python](https://img.shields.io/badge/language-Python-blue)|PDF file to MP3 file converter. |
