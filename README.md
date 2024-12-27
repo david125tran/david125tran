@@ -5,7 +5,8 @@
   
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](http://www.linkedin.com/in/david119tran)  
-    
+![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) david125tran@gmail.com  
+
 ## Table of Contents
 | Name of Project | Tech | Description |
 | --------------- | -------- | ----------- |
