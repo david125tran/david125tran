@@ -4,7 +4,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david125tran&theme=default) 
   
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](www.linkedin.com/in/david119tran)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](http://www.linkedin.com/in/david119tran)  
     
 ## Table of Contents
 | Name of Project | Tech | Description |
