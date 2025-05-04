@@ -1,8 +1,8 @@
 ### Hi there! 👋
 I'm a software developer passionate about building efficient, automated solutions for real-world problems.  
-💻 Skilled in Python, C#, SQL, AutoIt, and shell scripting, with experience developing dashboards, data pipelines, and system automation tools.  
+💻 Skilled in a multitude of languages with experience developing dashboards, data pipelines, and system automation tools.  
 🧪 Strong background in scientific computing and laboratory systems, with hands-on experience managing database servers and robotic automation.  
-🔧 Technologies I use: Python, SQL Server, AutoIt, JavaScript, HTML/CSS, GitHub, Visual Studio Code, R, and more. 
+🔧 Technologies I use: Python, SQL Server, AutoIt, JavaScript, HTML/CSS, GitHub, Visual Studio Code, R, SQL and more. 
 🚀 Always learning and excited about backend development, automation, and scalable software engineering.  
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david125tran&theme=default) 
