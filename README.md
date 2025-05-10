@@ -1,10 +1,11 @@
-### Hi there! 👋
+### Hi there 👋
+
 I'm a software developer passionate about building efficient, automated solutions for real-world problems.  
 💻 Skilled in a multitude of languages with experience developing dashboards, data pipelines, and system automation tools.  
 🧪 Strong background in laboratory automation, with hands-on experience managing database servers and robotic automation.  
 🔧 Technologies I use: Python, SQL Server, AutoIt, JavaScript, HTML/CSS, GitHub, Visual Studio Code, R, SQL and more. 
 🚀 Always learning and excited about backend development, automation, and scalable software engineering.  
-  
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david125tran&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david125tran&theme=default) 
   
@@ -18,9 +19,10 @@ I'm a software developer passionate about building efficient, automated solution
 |[ASP.NET_Core_Web_App](https://github.com/david125tran/ASP.NET_Core_Web_App)|![C#](https://img.shields.io/badge/language-C%23-purple) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)|A CRUD web app using the ASP .NET Core Web App project template.|
 |[Book_to_audio_converter](https://github.com/david125tran/book_to_audio_converter)|![Python](https://img.shields.io/badge/language-Python-blue)|PDF file to MP3 file converter. |
 |[CSharp_JSON_to_SQL](https://github.com/david125tran/CSharp_JSON_to_SQL)|![C#](https://img.shields.io/badge/language-C%23-purple) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![TSQL](https://img.shields.io/badge/Language-TSQL-red)| In this project, I use the dapper mapper method (an open-source object-relational mapping (ORM) library for .NET and .NET Core applications). I parse JSON data into string and then use the dapper library to inject it into a MS SQL table as TSQL code.|
-|[CSharp_Masterclass](https://github.com/david125tran/CSharp_Masterclass)|![C#](https://img.shields.io/badge/language-C%23-purple) |C# coursework that I am working through.  In progress.|
+|[CSharp_Masterclass](https://github.com/david125tran/CSharp_Masterclass)|![C#](https://img.shields.io/badge/language-C%23-purple) |C# coursework that I used to learn C#|
 |[Data_Structures_and_Algorithms](https://github.com/david125tran/Data_Structures_and_Algorithms) |![Python](https://img.shields.io/badge/language-Python-blue)|Data structures & algorithms coursework that I worked through.|
 |[Database_to_CSV](https://github.com/david125tran/Database_to_CSV)|![Python](https://img.shields.io/badge/language-Python-blue) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/Language-SQL-cyan)|This repo takes data from a database stored in MySQL & pushes it into a CSV file.|
+|[David's AI Agent](https://github.com/david125tran/Davids_AI_Agent)|![Python](https://img.shields.io/badge/language-Python-blue) ![Python](https://shields.io/badge/-OpenAI-93f6ef?logo=openai)|An AI Agent that I built via API integration to OpenAi's API endpoint.|
 |[Django_REST_API](https://github.com/david125tran/Django_REST_API)|![Python](https://img.shields.io/badge/language-Python-blue) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) |A REST API with CRUD functionality.|
 |[Excel_VBA](https://github.com/david125tran/Excel_VBA)|![Excel VBA](https://img.shields.io/badge/language-ExcelVBA-green?logo=VBA) |Two different sheets with VBA programming showcasing VBA, macros, buttons, creating functions, calling functions, case statements, if else statements, looping through rows, creating macros, etc.|
 |[Flask-api](https://github.com/david125tran/flask-api)|![Python](https://img.shields.io/badge/language-Python-blue) ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)|A Flask RESTful API to make a random list of quotes to return.|
