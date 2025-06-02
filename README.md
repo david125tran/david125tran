@@ -6,8 +6,7 @@ I'm a software developer passionate about building efficient, automated solution
 🔧 Technologies I use: Python, SQL Server, AutoIt, JavaScript, HTML/CSS, GitHub, Visual Studio Code, R, SQL and more.  
 🚀 Always learning and excited about backend development, automation, and scalable software engineering.  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david125tran&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david125tran&theme=default) 
+
   
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](http://www.linkedin.com/in/david119tran)  
