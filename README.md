@@ -11,6 +11,7 @@ I'm a software developer passionate about building efficient, automated solution
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david125tran&theme=default) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran)](https://github.com/david125tran/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=20)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](http://www.linkedin.com/in/david119tran)  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) david125tran@gmail.com  
