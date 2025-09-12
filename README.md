@@ -2,8 +2,9 @@
 I'm David Tran — a software developer passionate about building **efficient, automated solutions** for real-world problems based in 📍 Raleigh-Durham, NC.  
 
 💻 I design and develop **dashboards, data pipelines, and system automation tools**, with a strong background in **Life Sciences** and hands-on experience managing **database servers** and **robotic workflows**.  
-🧪 I previously held a career working in pharmaceutical labortories ( **8+ years of lab experience**).
-🚀 Always learning and excited about **backend development, LLM engineering, automation, and scalable software engineering**. 
+🧪 I previously held a career working in pharmaceutical labortories ( **8+ years of lab experience**).  
+🚀 Always learning, exploring new technologies, and excited about **backend development, LLM engineering, automation, and scalable software engineering**. I want to push my skills to the next level.  
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](http://www.linkedin.com/in/david119tran)  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) david125tran@gmail.com  
