@@ -1,4 +1,3 @@
----
 ## Hi there 👋  
 I'm David Tran — a software developer passionate about building **efficient, automated solutions** for real-world problems based in 📍 Raleigh-Durham, NC.  
 
@@ -8,6 +7,7 @@ I'm David Tran — a software developer passionate about building **efficient, a
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](http://www.linkedin.com/in/david119tran)  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) david125tran@gmail.com  
+
 ---
 ## 🔧 Technical Profile  
 **Languages**  
