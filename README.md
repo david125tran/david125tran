@@ -18,6 +18,7 @@ APIs • AWS (Bedrock, Redshift) • Git/GitHub • LangChain • LLMs • OOP �
 
 **Core Competencies**  
 Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • LLM Orchestration • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Web Development • Data Quality Monitoring • GUI Development  
+
 ---
 ## 🌱 Current Focus  
 - Learning applied **LLM Engineering & Generative AI**   
