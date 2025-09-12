@@ -1,17 +1,36 @@
-### Hi there 👋
+---
+## Hi there 👋  
+I'm David Tran — a software developer passionate about building **efficient, automated solutions** for real-world problems based in 📍 Raleigh-Durham, NC.  
 
-I'm a software developer passionate about building efficient, automated solutions for real-world problems.  
-💻 Skilled in a multitude of languages with experience developing dashboards, data pipelines, and system automation tools.  
-🧪 Strong background in laboratory automation, with hands-on experience managing database servers and robotic automation.  
-🔧 Technologies I use: Applied LLM Engineering/Generative AI, LangChain, Python, SQL Server, AutoIt, JavaScript, HTML/CSS, GitHub, Visual Studio Code, R, SQL and more.  
-🚀 Always learning and excited about backend development, automation, and scalable software engineering.  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=50)
+💻 I design and develop **dashboards, data pipelines, and system automation tools**, with a strong background in **Life Sciences** and hands-on experience managing **database servers** and **robotic workflows**.  
+🧪 I previously held a career working in pharmaceutical labortories ( **8+ years of lab experience**).
+🚀 Always learning and excited about **backend development, LLM engineering, automation, and scalable software engineering**. 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](http://www.linkedin.com/in/david119tran)  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) david125tran@gmail.com  
-
-
+---
+## 🔧 Technical Profile  
+**Languages**  
+Python • SQL (MySQL, MS SQL Server, SQLite) • JavaScript • HTML/CSS • R • AutoIt • VBA • VBScript • C# • Batch  
+**Frameworks & Tools**  
+APIs • AWS (Bedrock, Redshift) • Git/GitHub • LangChain • LLMs • OOP • Relational Databases • Tableau • Webscraping  
+**Core Competencies**  
+Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • LLM Orchestration • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Web Development • Data Quality Monitoring • GUI Development  
+---
+## 🌱 Current Focus  
+- Learning applied **LLM Engineering & Generative AI**   
+- Building scalable **automation pipelines** + backend environments
+---
+## ✨ A Bit About Me  
+When I’m not coding, I:  
+- 🐈 Foster cats
+- 🥋 Train jiu jitsu and 🤼‍ wrestling
+- 🏋️ Weight lift
+- 🌍 Love traveling, learning from new cultures, and training martial arts all around the world
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=50)
+---
+---
 ## Table of Contents
 | Name of Project | Languages & Framework | Description |
 | --------------- | -------- | ----------- |
@@ -44,5 +63,8 @@ I'm a software developer passionate about building efficient, automated solution
 |[TicTacToeOOP](https://github.com/david125tran/TicTacToeOOP)|![C#](https://img.shields.io/badge/language-C%23-purple) |Showcasing the pillars of object oriented programming in C#.|
 |[US-Weather-API](https://github.com/david125tran/US-Weather-API)|![Python](https://img.shields.io/badge/language-Python-blue)|Getting the current temperature of all 50 US states using an API.  The API call requires a latitude & longitude of each state which I get by using BeautifulSoup webscraper to scrape into a list from a website.|
 |[WindowsForms_CRUD_App.NET](https://github.com/david125tran/WindowsForms_CRUD_App_.NET)|![C#](https://img.shields.io/badge/language-C%23-purple) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white) ![TSQL](https://img.shields.io/badge/Language-TSQL-red)|A CRUD Windows desktop connected to a SQL database.|
+
+---
+
 
 
