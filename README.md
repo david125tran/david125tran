@@ -18,7 +18,7 @@ Python • SQL (MySQL, MS SQL Server, SQLite) • JavaScript • HTML/CSS • R 
 APIs • AWS (Bedrock, Redshift) • Git/GitHub • LangChain • LLMs • OOP • Relational Databases • Tableau • Webscraping  
 
 **Core Competencies**  
-Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • LLM Orchestration • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Web Development • Data Quality Monitoring • GUI Development  
+Automation Scripting • Data Analytics, Data Pipelines (ETL/ELT) • Dashboard Development • LLM Orchestration • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Web Development • Data Quality Monitoring • GUI Development  
 
 ---
 ## 🌱 Current Focus  
