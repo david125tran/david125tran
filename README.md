@@ -29,7 +29,7 @@ Automation Scripting • Data Analytics, Data Pipelines (ETL/ELT) • Dashboard 
 When I’m not coding, I:  
 - 🐈 Foster cats volunteering with the local rescue
 - 🥋 Train jiu jitsu and 🤼‍ wrestling
-- 🥊 Watching martial arts events 
+- 🥊 Watch martial arts events 
 - 🏋️ Weight lift
 - 🌍 Love traveling, learning from new cultures, and training martial arts all around the world
 ---
