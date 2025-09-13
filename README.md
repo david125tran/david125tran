@@ -12,13 +12,13 @@ I'm David Tran — a software developer passionate about building **efficient, a
 ---
 ## 🔧 Technical Profile  
 **Languages**  
-Python • SQL (MySQL, MS SQL Server, SQLite) • JavaScript • HTML/CSS • R • AutoIt • VBA • VBScript • C# • Batch  
+Python • SQL • JavaScript • HTML/CSS • R • AutoIt • VBA • VBScript • C# • Batch  
 
 **Frameworks & Tools**  
 APIs • AWS (Bedrock, Redshift) • Git/GitHub • LangChain • LLMs • OOP • Relational Databases • Tableau • Webscraping  
 
 **Core Competencies**  
-Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • LLM Orchestration • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Web Development • Data Quality Monitoring • GUI Development  
+Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • LLM Orchestration • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Web Development • Data Quality Monitoring • GUI Development • Relational Databases
 
 ---
 ## 🌱 Current Focus  
