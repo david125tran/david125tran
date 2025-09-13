@@ -27,7 +27,7 @@ Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • 
 ---
 ## ✨ A Bit About Me  
 When I’m not coding, I:  
-- 🐈 Foster cats
+- 🐈 Foster cats volunteering with the local rescue
 - 🥋 Train jiu jitsu and 🤼‍ wrestling
 - 🥊 Watching martial arts events 
 - 🏋️ Weight lift
