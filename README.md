@@ -33,7 +33,7 @@ When I’m not coding, I:
 - 🏋️ Weight lift
 - 🌍 Love traveling, learning from new cultures, and training martial arts all around the world
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=10)
 ---
 ---
 ## Table of Contents
