@@ -1,5 +1,5 @@
 <!--
-SEO: David Tran | AI Engineer | Software Developer | Durham NC | LLM Engineering | Automation
+SEO: David Tran | AI Engineer | Software Developer | Durham NC | Raleigh NC | North Carolina | LLM Engineering | Automation | Labcorp | Jiu-Jitsu | Wrestling
 -->
 
 # 👋 Hi there — I'm David Tran  
