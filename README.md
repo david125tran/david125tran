@@ -53,7 +53,7 @@ Outside of work and coding, I:
 | [**RAG_System**](https://github.com/david125tran/RAG_System) | ![Python](https://img.shields.io/badge/Python-blue) ![LangChain](https://img.shields.io/badge/LangChain-22C55E?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | A GenAI Retrieval-Augmented Generation system for querying 10-K filings. Pipeline: Document Pre-processing ➡️ Embedding Generation ➡️ VectorDB Storage ➡️ Querying via LLM. |
 | [**David’s AI Agent**](https://github.com/david125tran/Davids_AI_Agent) | ![Python](https://img.shields.io/badge/Python-blue) ![OpenAI](https://shields.io/badge/-OpenAI-93f6ef?logo=openai) | A Python-based AI agent leveraging OpenAI’s API to process and respond to structured tasks. |
 | [**LLM_Engineering_1**](https://github.com/david125tran/LLM_Engineering_1) | ![LangChain](https://img.shields.io/badge/LangChain-22C55E?style=for-the-badge&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | A portfolio of LLM projects — chatbots, summarization tools, fine-tuning experiments, and multimodal assistants using OpenAI, Hugging Face, and LangChain. |
-
+| [**LLM_Engineering_2**](https://github.com/david125tran/LLM_Engineering_2) | ![LangChain](https://img.shields.io/badge/LangChain-22C55E?style=for-the-badge&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | More LLM Engineering material that I am currently learning. 🌱 Work in progress... |
 ---
 
 ### 💻 Software & Backend Development  
