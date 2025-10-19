@@ -1,7 +1,7 @@
 # 👋 Hi there — I'm David Tran  
 
 I'm a **Software Developer & AI Engineer** passionate about building **efficient, automated solutions** for real-world problems.  
-📍 Based in Raleigh–Durham, NC.  
+📍 Based in Raleigh Durham, NC.  
 
 💻 I design and develop **data pipelines, backend automation systems, and AI-powered applications**, with a strong background in **Life Sciences**.  Previously held a career working in scientific labortories ( **🧬 8+ years of lab experience, 📖 biology degree**).  🚀 **Always learning**, exploring new technologies, and excited about **backend development, LLM engineering, automation, and scalable software engineering**. I want to push my skills to the next level.  
 
