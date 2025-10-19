@@ -1,3 +1,7 @@
+<!--
+SEO: David Tran | AI Engineer | Software Developer | Durham NC | LLM Engineering | Automation
+-->
+
 # 👋 Hi there — I'm David Tran  
 
 I'm a **Software Developer & AI Engineer** passionate about building **efficient, automated solutions** for real-world problems.  
