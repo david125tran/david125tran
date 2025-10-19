@@ -1,5 +1,5 @@
 <!--
-SEO: David Tran | AI Engineer | Software Developer | Durham NC | Raleigh NC | North Carolina | LLM Engineering | Automation | Labcorp | Jiu-Jitsu | Wrestling
+SEO: David Tran | AI Engineer | Software Developer | Durham NC | Raleigh NC | North Carolina | LLM Engineering | Automation | Labcorp | Jiu-Jitsu | Wrestling | GMP | cGMP | Pharmaceuticals | Drug Discovery | Biology | Chemistry | Analytical Chemistry | LangChain | RAG | Life Sciences | Biotechnology | Retrieval-Augmented Generation
 -->
 
 # 👋 Hi there — I'm David Tran  
