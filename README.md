@@ -33,7 +33,7 @@ When I’m not coding, I:
 - 🏋️ Weight lift
 - 🌍 Love traveling, learning from new cultures, and training martial arts all around the world
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=13)
 ---
 ---
 ## Table of Contents
@@ -67,6 +67,7 @@ When I’m not coding, I:
 |[Terraform_weather](https://github.com/david125tran/terraform_weather)|![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![HCL](https://img.shields.io/badge/language-HCL-green?logo=HCL)|Infrastructure as code (IaC) using AWS Cloud 9.|
 |[Tic_tac_toe](https://github.com/david125tran/tic_tac_toe)|![Python](https://img.shields.io/badge/language-Python-blue)|A simple script to play tic, tac, toe as a text based game.|
 |[TicTacToeOOP](https://github.com/david125tran/TicTacToeOOP)|![C#](https://img.shields.io/badge/language-C%23-purple) |Showcasing the pillars of object oriented programming in C#.|
+|[TinyGPT](https://github.com/david125tran/TinyGPT)|![Python](https://img.shields.io/badge/language-Python-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Transformer](https://img.shields.io/badge/Architecture-Transformer-orange)|A miniature GPT-style Transformer built from scratch in PyTorch, inspired by Andrej Karpathy’s “nanoGPT”. It demonstrates the evolution from a simple Bigram Language Model (predicting the next token from one) to a full Transformer using self-attention, positional embeddings, and residual connections.|
 |[US-Weather-API](https://github.com/david125tran/US-Weather-API)|![Python](https://img.shields.io/badge/language-Python-blue)|Getting the current temperature of all 50 US states using an API.  The API call requires a latitude & longitude of each state which I get by using BeautifulSoup webscraper to scrape into a list from a website.|
 |[WindowsForms_CRUD_App.NET](https://github.com/david125tran/WindowsForms_CRUD_App_.NET)|![C#](https://img.shields.io/badge/language-C%23-purple) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white) ![TSQL](https://img.shields.io/badge/Language-TSQL-red)|A CRUD Windows desktop connected to a SQL database.|
 
