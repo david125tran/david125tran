@@ -76,6 +76,7 @@ Outside of work and coding, I:
 | -------- | ----------- | ----------- |
 | [**Database_Automation_Scripts**](https://github.com/david125tran/MySQL_Database_queries) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Automates common SQL operations with procedural logic and stored queries. |
 | [**Ibjjf_scraper_to_excel**](https://github.com/david125tran/ibjjf_scraper_to_excel) | ![Python](https://img.shields.io/badge/language-Python-blue) | Web scraper exporting IBJJF tournament data into Excel. |
+| [**Outlier Detection Algorithm**](https://github.com/david125tran/Outlier-Detection-Algorithm) | ![Python](https://img.shields.io/badge/language-Python-blue) | A custom time-series outlier detection algorithm that constructs a rolling geometric envelope around an averaged trace. Uses the envelope to flag curves that deviate from dynamic upper and lower limits. Designed for adaptable, real-world data analysis. |
 | [**Terraform_weather**](https://github.com/david125tran/terraform_weather) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | Infrastructure-as-Code using Terraform + AWS Cloud9. |
 ---
 
