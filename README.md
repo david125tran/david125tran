@@ -33,16 +33,6 @@ Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • 
 
 ---
 
-## ✨ A Bit About Me  
-Outside of work and coding, I:  
-- 🐈 Foster cats through local rescue programs  
-- 🥋 Train jiu-jitsu and 🤼‍♂️ wrestling  
-- 🥊 Follow martial arts events  
-- 🏋️ Lift weights and stay active  
-- 🌍 Love traveling, learning from new cultures, and training martial arts around the world  
-
----
-
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=13)
 
