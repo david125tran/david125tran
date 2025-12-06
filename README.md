@@ -2,7 +2,7 @@
 SEO: David Tran | AI Engineer | Software Developer | Durham NC | Raleigh NC | North Carolina | LLM Engineering | Automation | Labcorp | GMP | cGMP | Pharmaceuticals | Drug Discovery | Biology | Chemistry | Analytical Chemistry | LangChain | RAG | Life Sciences | Biotechnology | Retrieval-Augmented Generation
 -->
 
-# 👋 Hi there — I'm David Tran  
+# 👋 Hi there - I'm David Tran  
 
 I'm a **Software Developer & AI Engineer** passionate about building **efficient, automated solutions** for real-world problems.  
 📍 Based in Raleigh-Durham, NC.  
