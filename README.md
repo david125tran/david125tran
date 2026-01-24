@@ -80,7 +80,7 @@ Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • 
 
 ## 🌱 Current Focus  
 
-Over the past year, I’ve been deepening my work in 🤖 **Applied AI Engineering** by designing and building **end-to-end AI systems** rather than isolated demos.
+Over the past year, I’ve been deepening my work in 🤖 **Applied AI Engineering** by designing and building **end-to-end AI systems** rather than isolated demos.  I want to get to a very high level mastery in AI Engineering & learn as much as I can.  
 
 My focus areas include:
 - AI model and API orchestration
