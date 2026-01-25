@@ -20,7 +20,7 @@ I'm a **Software Developer & Applied AI Engineer** passionate about building **e
 Python • SQL • JavaScript • HTML/CSS • R • AutoIt • VBA • VBScript • C# • Batch  
 
 **Frameworks & Tools**  
-PyTorch • LangChain • OpenAI API • AWS (Bedrock, Redshift) • Shiny • APIs • Git/GitHub • OOP • Tableau • Webscraping  
+PyTorch • LangChain • LangGraph • OpenAI API • AWS (Bedrock, Redshift) • Shiny • APIs • Git/GitHub • OOP • Tableau • Webscraping • Automated Web Browsing 
 
 **Core Competencies**  
 Automation Scripting • Data Pipelines (ETL/ELT) • Dashboard Development • LLM Orchestration • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Web Development • Data Quality Monitoring • GUI Development • Relational Databases  
