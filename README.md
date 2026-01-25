@@ -16,25 +16,18 @@ I'm a **Software Developer & Applied AI Engineer** passionate about building **e
 
 ## 🔧 Technical Profile  
 
-**Languages**  
+**💬 Languages**  
 Python • SQL • JavaScript • HTML/CSS • R • AutoIt • VBA • VBScript • C# • Batch  
 
-**Frameworks & Tools**  
+**🔧 Frameworks & Tools**  
 PyTorch • LangChain • LangGraph • OpenAI API • AWS (Bedrock, Redshift) • Shiny • APIs • Git/GitHub • OOP • Tableau • Webscraping • Automated Web Browsing 
 
-**Core Competencies**  
-Applied AI Engineering / LLM Engineering • Automation Scripting • Backend Engineering • APIs • Data Pipelines (ETL/ELT) • Dashboard Development • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Web Development • Data Quality Monitoring • GUI Development • Relational Databases  
+**✅ Core Competencies**  
+Applied AI & LLM Engineering • Automation Scripting • Backend Development • APIs • Automation & Web-Driven Workflows • Web Scraping & Data • Extraction Data Pipelines (ETL/ELT) • Dashboard Development • Fine-Tuning • Retrieval-Augmented Generation (RAG) • Frontend & UI Development • Data Quality Monitoring • GUI Development • Relational Databases & SQL  
 
 ---
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=13)
-  
-`Jupyter Notebook is one of my least used, however the file sizes from my notebooks that I've uploaded are dwarfing my other languages`
-  
----
-
-# 🧠 Featured Projects  
+# 🚀 Featured Projects  
 
 ### 🧩 Applied AI & LLM Engineering  
 | Project | Tech Stack | Description |
@@ -97,14 +90,12 @@ I learn primarily through **intentional, hands-on iteration**:
 - debugging failures systematically with logging and metrics
 - refactoring to harden systems with better abstractions, guardrails, and observability
 
-## ✅ Core Strengths
-- Applied AI & LLM Engineering
-- Backend Development & APIs
-- Automation & Web-Driven Workflows
-- Web Scraping & Data Extraction
-- Relational Databases & SQL
-- Desktop Application Development
-- Frontend & UI Development
+---
+
+## 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=13)
+  
+`Jupyter Notebook is one of my least used, however the file sizes from my notebooks that I've uploaded are dwarfing my other languages`
 
 ---
 
