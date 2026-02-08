@@ -73,13 +73,14 @@ Applied AI & LLM Engineering • Automation Scripting • Backend Development �
 
 ## 🌱 Current Focus  
 
-Over the past year, I’ve been deepening my work in 🤖 **Applied AI Engineering** by designing and building **end-to-end AI systems** rather than isolated demos.  I want to get to a very high level mastery in AI Engineering & learn as much as I can.  
+Over the past year, I’ve been deepening my work in 🤖 **Applied AI Engineering** by designing and building **end-to-end AI systems** rather than isolated demos.  I want to get to a very high level mastery in AI Engineering & learn as much as I can.  Sorry if my repo readmes are long, lol.  I'm programming so much that sometimes I can't remember that I had built something a few days prior.  And so the readmes are so that I can remember what I did if I ever revisit it.  
 
 My focus areas include:
 - AI model and API orchestration
 - Retrieval-Augmented Generation (RAG) pipelines
 - Fine-tuning and PEFT workflows
 - Agentic systems and tool-using LLMs
+- Classification
 - Security-aware AI system design
 
 I learn primarily through **intentional, hands-on iteration**:
