@@ -7,7 +7,7 @@ SEO: David Tran | Applied AI Engineer | Software Developer | Durham NC | Raleigh
 I'm a **Software Developer & Applied AI Engineer** passionate about building **efficient, automated solutions** for real-world problems.  
 📍 Based in Raleigh-Durham, NC.  
 
-💻 I design and develop **data pipelines, backend automation systems, and AI-powered applications**.  Previously held a career working in scientific laboratories ( **🧬 9 years in Life Sciences, 📖 biology degree**).  🚀 **Always learning**, exploring new technologies, and excited about **backend development, LLM engineering, automation, and scalable software engineering**. I want to push my skills to the next level.  
+💻 I design and develop **data pipelines, backend automation systems, and AI-powered applications**.  Previously held a career working in scientific laboratories ( **🧬 9 years in Life Sciences, 📖 biology degree**).  🚀 **Always learning**, exploring new technologies, and excited about **backend development, LLM engineering, automation, and scalable software engineering**. 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](http://www.linkedin.com/in/david119tran)  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) david125tran@gmail.com  
@@ -70,26 +70,6 @@ Applied AI & LLM Engineering • Automation Scripting • Backend Development �
 | [**Matplotlib**](https://github.com/david125tran/Matplotlib) | ![Python](https://img.shields.io/badge/language-Python-blue) | Data visualizations with Matplotlib. |
 | [**NumPy-Image**](https://github.com/david125tran/NumPy-Image) | ![Python](https://img.shields.io/badge/language-Python-blue) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) | Converts color images to grayscale using NumPy array manipulation. |
 |[**Tableau**](https://github.com/david125tran/Tableau)|![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)|Some data visualizations done in Tableau with large data sets.|
-
-## 🌱 Current Focus  
-
-Over the past year, I’ve been deepening my work in 🤖 **Applied AI Engineering** by designing and building **end-to-end AI systems** rather than isolated demos.  I want to get to a very high level mastery in AI Engineering & learn as much as I can.  Sorry if my repo readmes are long, lol.  I'm programming so much that sometimes I can't remember that I had built something a few days prior.  And so the readmes are so that I can remember what I did if I ever revisit it.  
-
-My focus areas include:
-- AI model and API orchestration
-- Retrieval-Augmented Generation (RAG) pipelines
-- Fine-tuning and PEFT workflows
-- Agentic systems and tool-using LLMs
-- Classification
-- Security-aware AI system design
-
-I learn primarily through **intentional, hands-on iteration**:
-- building full systems (APIs, retrieval layers, orchestration, UIs)
-- pushing them until they break (latency, cost, scale, security edge cases)
-- debugging failures systematically with logging and metrics
-- refactoring to harden systems with better abstractions, guardrails, and observability
-
----
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=13)
