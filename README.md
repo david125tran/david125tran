@@ -73,6 +73,10 @@ Applied AI & LLM Engineering • Automation Scripting • Backend Development �
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&langs_count=13)
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david125tran&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)
   
 `Jupyter Notebook is one of my least used, however the file sizes from my notebooks that I've uploaded are dwarfing my other languages`
 
