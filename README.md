@@ -71,6 +71,13 @@ Applied AI & LLM Engineering • Automation Scripting • Backend Development �
 | [**NumPy-Image**](https://github.com/david125tran/NumPy-Image) | ![Python](https://img.shields.io/badge/language-Python-blue) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) | Converts color images to grayscale using NumPy array manipulation. |
 |[**Tableau**](https://github.com/david125tran/Tableau)|![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)|Some data visualizations done in Tableau with large data sets.|
 
+## 🏃‍♂️ Hobbies
 
+- Running
+- Weightlifting
+- Healthy eating and nutrition
+- Traveling
+- Exploring different cuisines and cultures
+- Martial arts, including MMA, Brazilian jiu-jitsu, and wrestling
 ---
 
